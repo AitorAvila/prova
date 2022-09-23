@@ -1,0 +1,397 @@
+body {
+  background-color: rgb(231,238,247);
+  background-image: url('https://ssl.gstatic.com/docs/forms/themes/images/v1/0AX42CRMsmRFbUy03NTAzM2Q4My03ODU1LTQ2NzItODI2YS1kZmU5YzdiMzZjOGQ/blue-stripe-bg.png');
+  background-repeat: repeat;
+  background-position: left top;
+}
+
+.ss-form-container, .ss-resp-card {
+  background-color: rgb(255,255,255);
+}
+
+.ss-footer, .ss-response-footer {
+  background-color: rgb(255,255,255);
+}
+
+.ss-grid-row-odd {
+  background-color: rgb(242,242,242);
+}
+
+.ss-form-container, .ss-resp-card {
+  border-color: rgb(212,212,212);
+}
+
+.ss-form-title {
+  text-align: left;
+}
+
+.ss-form-title[dir="rtl"] {
+  text-align: right;
+}
+
+.ss-form-desc {
+  text-align: left;
+}
+
+.ss-form-desc[dir="rtl"] {
+  text-align: right;
+}
+
+.ss-header-image-container {
+  height: 0;
+}
+
+.ss-item {
+  font-size: 1.080rem;
+}
+
+.ss-choices {
+  font-size: 1.000rem;
+}
+
+body {
+  font-family: "Roboto";
+  color: rgb(119,119,119);
+  font-weight: 400;
+  font-size: 1.080rem;
+  font-style: normal;
+}
+
+.ss-record-username-message {
+  font-family: "Roboto";
+  color: rgb(119,119,119);
+  font-weight: 400;
+  font-size: 1.080rem;
+  font-style: normal;
+}
+
+.ss-form-title {
+  font-family: "Roboto";
+  color: rgb(80,80,80);
+  font-weight: 400;
+  font-size: 2.460rem;
+  font-style: normal;
+}
+
+.ss-confirmation {
+  font-family: "Roboto";
+  color: rgb(80,80,80);
+  font-weight: 400;
+  font-size: 2.460rem;
+  font-style: normal;
+}
+
+.ss-page-title, .ss-section-title {
+  font-family: "Roboto";
+  color: rgb(80,80,80);
+  font-weight: 400;
+  font-size: 1.845rem;
+  font-style: normal;
+}
+
+.ss-form-desc, .ss-page-description, .ss-section-description {
+  font-family: "Roboto";
+  color: rgb(140,140,140);
+  font-weight: 400;
+  font-size: 1.080rem;
+  font-style: normal;
+}
+
+.ss-resp-content {
+  font-family: "Roboto";
+  color: rgb(119,119,119);
+  font-weight: 400;
+  font-size: 1.080rem;
+  font-style: normal;
+}
+
+.ss-q-title {
+  font-family: "Roboto";
+  color: rgb(80,80,80);
+  font-weight: 700;
+  font-size: 1.080rem;
+  font-style: normal;
+}
+
+.ss-embeddable-object-container .ss-q-title {
+  font-family: "Roboto";
+  color: rgb(80,80,80);
+  font-weight: 700;
+  font-size: 1.845rem;
+  font-style: normal;
+}
+
+.ss-q-help, .ss-q-time-hint {
+  font-family: "Roboto";
+  color: rgb(140,140,140);
+  font-weight: 400;
+  font-size: 1.000rem;
+  font-style: normal;
+}
+
+.ss-choice-label, .video-secondary-text, .ss-gridrow-leftlabel, .ss-gridnumber, .ss-scalenumber, .ss-leftlabel, .ss-rightlabel {
+  font-family: "Roboto";
+  color: rgb(80,80,80);
+  font-weight: 400;
+  font-size: 1.000rem;
+  font-style: normal;
+}
+
+.error-message, .required-message, .ss-required-asterisk {
+  font-family: "Roboto";
+  color: rgb(196,59,29);
+  font-weight: 400;
+  font-size: 1.000rem;
+  font-style: normal;
+}
+
+.ss-send-email-receipt {
+  font-family: "Roboto";
+  color: rgb(80,80,80);
+  font-weight: 400;
+  font-size: 1.000rem;
+  font-style: normal;
+}
+
+.ss-password-warning {
+  font-family: "Arial";
+  color: rgb(119,119,119);
+  font-weight: 400;
+  font-size: 1.000rem;
+  font-style: italic;
+}
+
+.disclaimer {
+  font-family: "Arial";
+  color: rgb(119,119,119);
+  font-weight: 400;
+  font-size: 0.850rem;
+  font-style: normal;
+}
+
+.ss-footer-content {
+  font-family: "Arial";
+  color: rgb(80,80,80);
+  font-weight: 400;
+  font-size: 1.000rem;
+  font-style: normal;
+}
+
+.progress-label {
+  font-family: "Roboto";
+  color: rgb(140,140,140);
+  font-weight: 400;
+  font-size: 1.000rem;
+  font-style: normal;
+}
+
+a:link {
+  color: rgb(0,0,238);
+}
+
+a:visited {
+  color: rgb(85,26,139);
+}
+
+a:active {
+  color: rgb(252,0,0);
+}
+
+input[type='text'], input:not([type]), textarea {
+  font-size: 1.000rem;
+}
+
+.error, .required, .errorbox-bad {
+  border-color: rgb(196,59,29);
+}
+
+.jfk-progressBar-nonBlocking .progress-bar-thumb {
+  background-color: rgb(140,140,140);
+}
+
+.ss-logo-image {
+  background-image: url('https://ssl.gstatic.com/docs/forms/forms_logo_small_dark.png');
+  background-size: 108px 21px;
+  width: 108px;
+  height: 21px;
+}
+
+@media screen and (-webkit-device-pixel-ratio: 2) {
+.ss-logo-image {
+  background-image: url('https://ssl.gstatic.com/docs/forms/forms_logo_small_dark_2x.png');
+}
+}
+
+
+.ss-form-container{
+	max-width: 1000px;
+}
+
+
+.map_canvas {
+  height:450px;    
+}
+
+.large_map{
+	/*height:800px;    */
+}
+
+.controls {
+	float:left;
+	margin-right:10px;
+}
+
+.pin {
+	cursor:pointer;
+	z-index:1000000;
+}
+
+.map_info_container{
+	position:relative;
+}
+
+.info_map {
+	max-width:300px;
+	position:absolute;
+	right: 120px;
+	z-index:1000000;	
+	padding:5px 5px;
+	color:white;
+	font-size:11px;
+	opacity: 0.8;
+}
+
+.info{	
+	background-color:green;	
+}
+
+.error{
+	background-color:red;	
+}
+.legend_icons{	
+	float:left;
+}
+
+
+.legend{
+	margin-top:5px;
+	clear:left;	
+	width:320px;
+}
+
+.legend img{
+	height:28px;
+}
+
+
+.legend_label1, .legend_label1a{
+	font-size:11px;
+	float:left;
+	width:95px;
+	text-align:right;
+	margin-top:3px;
+	line-height:14px;
+}
+
+.legend_label2, .legend_label2a {		
+	font-size:11px;
+	float:left;
+	width:85px;
+	margin-top:3px;
+	line-height:14px;	
+  text-align: left;
+}
+
+.legend_label2a, .legend_label1a{
+	font-size:11px;
+	margin-top:1px;
+}
+
+.legend_label3 {
+	float:left;
+	width:250px;
+	text-align:center;
+	margin-top:3px;
+	line-height:14px;
+}
+
+.legend3 {
+	margin-top: 10px;
+}
+
+.legend_icons_numbers{
+	margin-left:85px;
+	font-size:12px;
+}
+
+.legend_icons_numbers2{
+	float:left;
+	font-size:12px;
+}
+
+.icons_number{
+	margin-left:15px;
+}
+
+.icons_number2 {
+	margin-left:10px;
+}
+
+.ss-top-of-page, .ss-form, .ss-footer {
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+
+.legend_label_header{
+	font-weight:bold;
+}
+
+.instructions {
+	font-size:12px;
+	border: solid 1px #ededed;
+	padding:5px;
+	margin:5px 0px;
+}
+
+.map-title{
+	font-size:18px;
+}
+
+.mytooltip {        
+    position: relative;
+}
+
+.mytooltip:hover:after {
+    bottom: 30px;
+    content: attr(title1); /* este es el texto que ser� mostrado */
+    right: 20%;
+    /*left: 20%;*/
+    position: absolute;
+    z-index: 1000098;
+    /* el formato gr�fico */
+    background: rgba(50,50,50, 0.9); /* el color de fondo */
+    border-radius: 5px;
+    color: #FFF; /* el color del texto */    
+    font-size: 12px;
+    padding: 5px 15px;
+    text-align: center;
+    text-shadow: 1px 1px 1px #000;
+    width: 150px;
+}
+
+.mytooltip:hover:before {
+    bottom: 24px;
+    content: "";
+    /*left: 50%;*/
+    right: 50%;
+    position: absolute;
+    z-index: 1000098;
+    /* el tri�ngulo inferior */
+    border: solid;
+    border-color: rgba(50,50,50, 0.9) transparent;
+    border-width: 6px 6px 0 6px;
+}
+
+.miss-value-error{
+	color: red;
+}
